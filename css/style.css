@@ -1,3 +1,7 @@
 body{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
+}
+
+figure img{
+    width : 290px;
 }
