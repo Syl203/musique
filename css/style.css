@@ -1,7 +1,27 @@
 body{
     font-family: 'Ubuntu';
 }
+.navbar{
+    border-bottom: 3px solid #000000 ;
+}
 
 figure img{
-    width : 290px;
+    width : 100%;
+    transition: 0.7s all;
+}
+figure img:hover{
+    transform: scale(1.1);
+}
+
+figure figcaption p{
+    text-align: center;
+}
+
+#section-1{
+    background-image: url(../img/bg-guitar.jpg);
+    background-size: cover;
+    opacity: 0.8;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
 }
