@@ -25,3 +25,10 @@ figure figcaption p{
     padding: 0;
     margin: 0;
 }
+#section-1 h1{
+    padding-top: 140px;
+    font-family: 'Sacramento', cursive;
+    color : #E5E5E5;
+    font-size: 120px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
