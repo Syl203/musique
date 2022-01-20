@@ -62,3 +62,11 @@ figure figcaption p{
     font-size: 120px;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
+
+.guitares{
+    margin : 0 auto;
+    max-width: 600px;
+}
+.guitare{
+    margin-bottom : 50px;
+}
