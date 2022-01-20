@@ -66,6 +66,7 @@ figure figcaption p{
 .guitares{
     margin : 0 auto;
     max-width: 600px;
+    transition: 0.7s all;
 }
 .guitare{
     margin-bottom : 50px;
